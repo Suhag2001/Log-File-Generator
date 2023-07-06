@@ -1,0 +1,32 @@
+2023-07-05 04:57:02,513  INFO StartupInfoLogger:51 - [] Starting SpringBootLoggingApplication using Java 20.0.1 with PID 20796 (E:\Bootcoding\spring-boot-logging\target\classes started by Asus in E:\Bootcoding\spring-boot-logging)
+2023-07-05 04:57:02,517  INFO SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-05 04:57:04,202  INFO TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-05 04:57:04,214  INFO DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-05 04:57:04,214  INFO DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-05 04:57:04,374  INFO DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-05 04:57:04,375  INFO ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 1773 ms
+2023-07-05 04:57:04,948  INFO TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-05 04:57:04,964  INFO StartupInfoLogger:57 - [] Started SpringBootLoggingApplication in 3.129 seconds (process running for 3.658)
+2023-07-05 04:57:08,529  INFO DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-05 04:57:08,530  INFO FrameworkServlet:532 - [] Initializing Servlet 'dispatcherServlet'
+2023-07-05 04:57:08,533  INFO FrameworkServlet:554 - [] Completed initialization in 1 ms
+2023-07-05 04:57:08,607  INFO MessageController:15 - [] [getMessage] info message 
+2023-07-05 04:57:08,608  WARN MessageController:16 - [] [getMessage] warn message
+2023-07-05 04:57:08,608 ERROR MessageController:17 - [] [getMessage] error message
+2023-07-05 04:57:08,609 DEBUG MessageController:18 - [] [getMessage] debug message
+2023-07-05 04:58:26,470  INFO StartupInfoLogger:51 - [] Starting SpringBootLoggingApplication using Java 20.0.1 with PID 13256 (E:\Bootcoding\spring-boot-logging\target\classes started by Asus in E:\Bootcoding\spring-boot-logging)
+2023-07-05 04:58:26,475  INFO SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-05 04:58:27,888  INFO TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-05 04:58:27,906  INFO DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-05 04:58:27,907  INFO DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-05 04:58:28,060  INFO DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-05 04:58:28,062  INFO ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 1515 ms
+2023-07-05 04:58:28,571  INFO TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-05 04:58:28,584  INFO StartupInfoLogger:57 - [] Started SpringBootLoggingApplication in 2.724 seconds (process running for 3.199)
+2023-07-05 04:58:38,095  INFO DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-05 04:58:38,096  INFO FrameworkServlet:532 - [] Initializing Servlet 'dispatcherServlet'
+2023-07-05 04:58:38,100  INFO FrameworkServlet:554 - [] Completed initialization in 2 ms
+2023-07-05 04:58:38,179  INFO MessageController:15 - [] [getMessage] info message 
+2023-07-05 04:58:38,180  WARN MessageController:16 - [] [getMessage] warn message
+2023-07-05 04:58:38,181 ERROR MessageController:17 - [] [getMessage] error message
+2023-07-05 04:58:38,182 DEBUG MessageController:18 - [] [getMessage] debug message
